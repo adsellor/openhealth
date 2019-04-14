@@ -1,0 +1,14 @@
+{
+  "name": "openDataBack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "nexmo": "^2.4.1",
+    "pubsub-js": "^1.7.0",
+    "twilio": "^3.30.1"
+  }
+}
